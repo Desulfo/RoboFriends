@@ -14,7 +14,8 @@ In console:
 ```git clone https://github.com/Desulfo/RoboFriends.git
 cd robofriends
 npm init
-npm start```
+npm start
+```
 If site didn't open automaticly in your browser you can acces it here: [http://localhost:3000](http://localhost:3000)
 
 ## Status
