@@ -8,6 +8,7 @@ Simple app with search field showing robots we are looking for by name
 * HTML 
 * CSS + [tachynos] (http://tachyons.io/)
 * React 
+* API from [JSONplaceholder](https://jsonplaceholder.typicode.com)
 
 ## Setup 
 In console: 
