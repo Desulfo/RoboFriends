@@ -21,6 +21,6 @@ npm start
 If site didn't open automaticly in your browser you can acces it here: [http://localhost:3000](http://localhost:3000)
 
 ## Status
-_in progress_
+_Finished_
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
