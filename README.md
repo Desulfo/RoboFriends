@@ -1,5 +1,5 @@
 # RoboFriends
-First react app intorduced in course [zero to master](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)
+First react app intorduced in course [zero to master](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)<br/>
 live version [RoboFriends](https://desulfo.github.io/RoboFriends/)
 
 ## General information
