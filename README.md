@@ -1,5 +1,6 @@
 # RoboFriends
 First react app intorduced in course [zero to master](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)
+live version [RoboFriends](https://desulfo.github.io/RoboFriends/)
 
 ## General information
 Simple app with search field showing robots we are looking for by name
